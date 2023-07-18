@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_main_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_main" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0 ps"></ZoomStartTime>
+      <ZoomEndTime time="11 ps"></ZoomEndTime>
+      <Cursor1Time time="784,556 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="340"></NameColumnWidth>
+      <ValueColumnWidth column_width="150"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/tb_main/testeA" type="array">
+      <obj_property name="ElementShortName">testeA[3:0]</obj_property>
+      <obj_property name="ObjectShortName">testeA[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main/testeB" type="array">
+      <obj_property name="ElementShortName">testeB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">testeB[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main/testeSEL" type="logic">
+      <obj_property name="ElementShortName">testeSEL</obj_property>
+      <obj_property name="ObjectShortName">testeSEL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main/testeS" type="array">
+      <obj_property name="ElementShortName">testeS[6:0]</obj_property>
+      <obj_property name="ObjectShortName">testeS[6:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
